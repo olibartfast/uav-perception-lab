@@ -1,3 +1,4 @@
+```
 uav-perception-lab/
 │
 ├── phase1_calibration_stereo/
@@ -36,3 +37,4 @@ uav-perception-lab/
 │   └── resources.md         # Books, papers, tutorials
 │
 └── README.md                # Project overview + progress tracker
+```
