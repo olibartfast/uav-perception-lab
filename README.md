@@ -28,3 +28,6 @@ See each `phaseX_*/` folder for code, datasets, and notes.
 - [ ] Phase 4: Sensor Fusion
 - [ ] Phase 5: Multi-Drone Sim
 - [ ] Phase 6: Real Drone Tests
+
+## 📚 Resources
+Check out [docs/resources.md](docs/resources.md) for curated learning materials including SLAM tutorials, research papers, and useful datasets.
